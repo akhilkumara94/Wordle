@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Wordle</string>
+    <string name="correct_word_default_val">Enter your guess to play!</string>
+    <string name="guess_button_default_val">Guess!</string>
+    <string name="reset_button_val">RESET</string>
+</resources>
